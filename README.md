@@ -16,7 +16,7 @@
 </div><br/>
 
 ## Sobre
-Sou estudante de Sistemas de Informação e trabalho, atualmente, como freelancer e estagiário de TI.
+Sou estudante de Sistemas de Informação e Freelancer.
 Minha stack inclui: HTML, CSS, JavaScript, TailwindCSS e React. <br/><br>Atualmente, estou me aprofundando em ferramentas como o NodeJS, TypeScript e React Native. Estou sempre disposto a aprender e a me adaptar, reconhecendo minhas limitações e trabalhando para superá-las.
 
 ## Email para contato
