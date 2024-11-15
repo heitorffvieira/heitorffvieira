@@ -21,3 +21,4 @@ Minha stack inclui: HTML, CSS, JavaScript, TailwindCSS e React. Atualmente, esto
 
 ## Email para contato
 hf444fv@gmail.com
+heitorformativo@gmail.com
