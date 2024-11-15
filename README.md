@@ -17,7 +17,7 @@
 
 ## Sobre
 Sou estudante de Sistemas de Informação e Freelancer.<br/><br>
-Minha stack inclui: HTML, CSS, JavaScript, TailwindCSS e React. Atualmente, estou me aprofundando em ferramentas como o NodeJS, TypeScript e React Native.<br/><br>Estou sempre disposto a aprender e a me adaptar, reconhecendo minhas limitações e trabalhando para superá-las.
+Minha stack inclui: HTML, CSS, JavaScript, TailwindCSS e React. Atualmente, estou me aprofundando em ferramentas como: NodeJS, TypeScript e React Native.<br/><br>Estou sempre disposto a aprender e a me adaptar, reconhecendo minhas limitações e trabalhando para superá-las.
 
 ## Email para contato
 hf444fv@gmail.com
