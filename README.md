@@ -15,7 +15,7 @@
     <img  align='center' alt='Tailwind CSS' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
 </div><br/>
 
-Apenas um garoto apaixonado por tecnologia e que busca se superar a cada dia =)
+Sou estudante de Sistemas de Informação e um desenvolvedor Front-end com conhecimentos em JavaScript, React, HTML, CSS e TailwindCSS - Atualmente, estou me aprofundando em ferramentas como o NodeJS, TypeScript, React Native e React. Sou também freelancer, tenho um pequeno negócio voltado para criação de sites comerciais e personalizados para lanchonetes, restaurantes, pizzarias, salões de beleza e entre outros. 
 
 ## Email para contato
 hf444fv@gmail.com
