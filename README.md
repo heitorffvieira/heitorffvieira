@@ -48,7 +48,7 @@ Me chamo Heitor Fernando, sou estudante de Sistemas de Informação e Freelancer
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
 <p>
     <img 
