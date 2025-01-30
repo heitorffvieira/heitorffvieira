@@ -5,7 +5,7 @@
 Me chamo Heitor Vieira, sou estudante de Sistemas de Informação e Freelancer. Desde pequeno, sempre fui fascinado por tecnologia. Essa paixão me levou a encontrar a programação como minha profissão de escolha. Sou uma pessoa que está sempre disposta a aprender e a me adaptar, reconhecendo minhas limitações e trabalhando para superá-las.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-vieira-831bab2b7/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitorffv/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vieiraa.dev/)
 ---
 
 ### 🤖 Linguagens e Tecnologias
