@@ -8,6 +8,8 @@ Me chamo Heitor Vieira, sou estudante de Sistemas de Informação e Freelancer. 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vieiraa.dev/)
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffvieira&layout=compact&theme=highcontrast)
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
