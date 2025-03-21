@@ -8,9 +8,28 @@ Me chamo Heitor Vieira, sou estudante de Sistemas de Informação e Freelancer. 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitorffv/)
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffvieira&layout=compact&theme=highcontrast)
-
 ### 🤖 Linguagens e Tecnologias
+
+<img 
+    style='padding-right: 10px' width='40px' 
+    title='React' 
+    alt='React' 
+    align='left' 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img 
+    style='padding-right: 10px' width='40px' 
+    title='React' 
+    alt='React' 
+    align='left' 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+<img 
+    style='padding-right: 10px' width='40px' 
+    title='JavaScript' 
+    alt='JavaScript' 
+    align='left' 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img 
     style='padding-right: 10px' width='40px' 
@@ -28,20 +47,6 @@ Me chamo Heitor Vieira, sou estudante de Sistemas de Informação e Freelancer. 
 
 <img 
     style='padding-right: 10px' width='40px' 
-    title='JavaScript' 
-    alt='JavaScript' 
-    align='left' 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='React' 
-    alt='React' 
-    align='left' 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img 
-    style='padding-right: 10px' width='40px' 
     title='Tailwind CSS' 
     alt='Tailwind CSS' 
     align='left' 
@@ -49,6 +54,10 @@ Me chamo Heitor Vieira, sou estudante de Sistemas de Informação e Freelancer. 
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffvieira&layout=compact&theme=highcontrast)
 
 <!--### 📊 Estatísticas
 
@@ -66,4 +75,4 @@ Me chamo Heitor Vieira, sou estudante de Sistemas de Informação e Freelancer. 
     height="170px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffvieira&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</p> --!>
