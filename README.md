@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Heitor Vieira, sou estudante de Sistemas de Informação e Freelancer. Desde pequeno, sempre fui fascinado por tecnologia. Essa paixão me levou a encontrar a programação como minha profissão de escolha. Sou uma pessoa que está sempre disposta a aprender e a me adaptar, reconhecendo minhas limitações e trabalhando para superá-las.
+Me chamo Heitor Vieira, sou Desenvolvedor Front-End e também atuo como Freelancer, com um histórico comprovado de transformar ideias em soluções digitais eficazes. Desde pequeno, sempre fui fascinado por tecnologia. Essa paixão me levou a encontrar a programação como minha profissão de escolha. Sou um profissional comprometido, sempre disposto a aprender, me adaptar e superar desafios, com foco em entregar o melhor para a instituição ou projeto em que estou envolvido.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-vieira-831bab2b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitorffv/)
