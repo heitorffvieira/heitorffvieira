@@ -1,14 +1,28 @@
 # Olá, eu sou Heitor Vieira! 👋
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full-Stack`**
 
-Me chamo Heitor Vieira, sou Desenvolvedor Front-End e também atuo como Freelancer, com um histórico comprovado de transformar ideias em soluções digitais eficazes. Desde pequeno, sempre fui fascinado por tecnologia. Essa paixão me levou a encontrar a programação como minha profissão de escolha. Sou um profissional comprometido, sempre disposto a aprender, me adaptar e superar desafios, com foco em entregar o melhor para a instituição ou projeto em que estou envolvido.
+Me chamo Heitor Vieira, sou Desenvolvedor Full-Stack e também atuo como Freelancer, com um histórico comprovado de transformar ideias em soluções digitais eficazes. Desde pequeno, sempre fui fascinado por tecnologia. Essa paixão me levou a encontrar a programação como minha profissão de escolha. Sou um profissional comprometido, sempre disposto a aprender, me adaptar e superar desafios, com foco em entregar o melhor para a instituição ou projeto em que estou envolvido.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-vieira-831bab2b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitorffv/)
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+<img 
+    style='padding-right: 10px' width='40px' 
+    title='Java' 
+    alt='Java' 
+    align='left' 
+    src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
+
+<img 
+    style='padding-right: 10px' width='40px' 
+    title='Spring Boot' 
+    alt='Spring Boot' 
+    align='left' 
+    src="https://devicon-website.vercel.app/api/spring/original.svg" />
 
 <img 
     style='padding-right: 10px' width='40px' 
