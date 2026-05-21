@@ -47,6 +47,13 @@ Me chamo Heitor Vieira, sou Desenvolvedor Full-Stack e também atuo como Freelan
 
 <img 
     style='padding-right: 10px' width='40px' 
+    title='PostgreSQL' 
+    alt='PostgreSQL' 
+    align='left' 
+    src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />    
+
+<img 
+    style='padding-right: 10px' width='40px' 
     title='HTML' 
     alt='HTML5' 
     align='left' 
