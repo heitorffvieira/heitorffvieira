@@ -78,7 +78,19 @@ Me chamo Heitor Vieira, sou Desenvolvedor Full-Stack e também atuo como Freelan
 
 ### 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffvieira&layout=compact&theme=highcontrast)
+<p>
+    <div align="left">
+        <img
+            height="180"
+            src="https://github-readme-stats-sigma-five.vercel.app/api?username=heitorffvieira&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+          />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+        <img
+            height="180"
+            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heitorffvieira&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+          />
+    </div>
+</p>
 
 <!--### 📊 Estatísticas
 
