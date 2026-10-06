@@ -15,7 +15,7 @@ Me chamo Heitor Vieira, sou Desenvolvedor Full-Stack e também atuo como Freelan
     title='Java' 
     alt='Java' 
     align='left' 
-    src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
+    src="https://devicon-website.vercel.app/api/java/original.svg" />
 
 <img 
     style='padding-right: 10px' width='40px' 
@@ -50,7 +50,7 @@ Me chamo Heitor Vieira, sou Desenvolvedor Full-Stack e também atuo como Freelan
     title='PostgreSQL' 
     alt='PostgreSQL' 
     align='left' 
-    src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />    
+    src="https://devicon-website.vercel.app/api/postgresql/original.svg" />    
 
 <img 
     style='padding-right: 10px' width='40px' 
