@@ -5,73 +5,75 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=700&color=2F81F7&size=32&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Heitor+Vieira!+%F0%9F%91%8B;Full-Stack+Developer+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=700&color=2F81F7&size=32&center=true&vCenter=true&random=false&width=600&lines=Olá%2C+sou+Heitor+Vieira!+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%E2%98%95" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
 <p align="center">
-  Building web applications, REST APIs, and digital solutions.
+  Desenvolvendo aplicações web, APIs REST e soluções digitais.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-Software Developer focused on backend development with Java and Spring Boot, building REST APIs, structuring applications using layered architecture, and integrating relational databases.
+Desenvolvedor de software com foco no desenvolvimento backend utilizando Java e Spring Boot, criando APIs REST, estruturando aplicações com arquitetura em camadas e integrando bancos de dados relacionais.
 
-I also develop web interfaces and full-stack applications using React, integrating frontend and backend to create functional and well-structured solutions.
+Também desenvolvo interfaces web e aplicações full-stack utilizando React, integrando frontend e backend para criar soluções funcionais e bem estruturadas.
 
-I have experience working on projects from planning and implementation to deployment, applying software development best practices, clean code principles, organization, and maintainability.
+Tenho experiência em projetos desde o planejamento e a implementação até o deploy, aplicando boas práticas de desenvolvimento de software, princípios de código limpo, organização e manutenibilidade.
 
-I am continuously improving my software development skills and seeking new challenges to grow technically and contribute to building high-quality solutions.
+Estou continuamente aprimorando minhas habilidades em desenvolvimento de software e buscando novos desafios para evoluir tecnicamente e contribuir para a construção de soluções de alta qualidade.
 
-- 🔗 Building and integrating **REST APIs**
-- ⚛️ Developing web interfaces with **React and TypeScript**
-- 🗄️ Working with relational databases and SQL
-- 🚀 Interested in software architecture, clean code, and scalable applications
+- 🔗 Desenvolvendo e integrando **APIs REST**
+- ⚛️ Desenvolvendo interfaces web com **React e TypeScript**
+- 🗄️ Trabalhando com bancos de dados relacionais e SQL
+- 🚀 Interessado em arquitetura de software, código limpo e aplicações escaláveis
 
 ---
 
-## 🛠️ Languages, Frameworks & Tools
+## 🛠️ Linguagens, Frameworks e Ferramentas
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,nodejs,javascript,html,css,tailwindcss,postgres,git,github,docker,postman,idea,vscode" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,nodejs,javascript,html,css,tailwindcss,postgres,git,github,docker,postman,idea,vscode" alt="Tecnologias" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=heitorffvieira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Heitor's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffvieira&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=heitorffvieira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub de Heitor" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffvieira&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=heitorffvieira&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<!--<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=heitorffvieira&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+</p> !-->
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Vamos nos Conectar
 
 <p align="center">
   <a href="https://www.instagram.com/heitorffv/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@vieira.dev" target="_blank">
+    <img src="https://cdn.simpleicons.org/tiktok/FFF" width="45" height="45" alt="TikTok" />
+  </a>
   <a href="https://www.linkedin.com/in/heitorffvieira/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/heitorffvieira" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  Feel free to connect with me!
+  Fique à vontade para entrar em contato!
 </p>
 
 <div align="center">
