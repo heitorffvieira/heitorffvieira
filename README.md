@@ -1,88 +1,79 @@
-# Olá, eu sou Heitor Vieira! 👋
 
-**`Desenvolvedor Full-Stack`**
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true" />
+</div>
 
-Me chamo Heitor Vieira, sou Desenvolvedor Full-Stack e também atuo como Freelancer, com um histórico comprovado de transformar ideias em soluções digitais eficazes. Desde pequeno, sempre fui fascinado por tecnologia. Essa paixão me levou a encontrar a programação como minha profissão de escolha. Sou um profissional comprometido, sempre disposto a aprender, me adaptar e superar desafios, com foco em entregar o melhor para a instituição ou projeto em que estou envolvido.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=700&color=2F81F7&size=32&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Heitor+Vieira!+%F0%9F%91%8B;Full-Stack+Developer+%E2%98%95" alt="Typing SVG" />
+  </a>
+</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-vieira-831bab2b7/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitorffv/)
+<h3 align="center">Full-Stack Developer</h3>
+
+<p align="center">
+  Building web applications, REST APIs, and digital solutions.
+</p>
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👨‍💻 About Me
 
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='Java' 
-    alt='Java' 
-    align='left' 
-    src="https://devicon-website.vercel.app/api/java/original.svg" />
+Software Developer focused on backend development with Java and Spring Boot, building REST APIs, structuring applications using layered architecture, and integrating relational databases.
 
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='Spring Boot' 
-    alt='Spring Boot' 
-    align='left' 
-    src="https://devicon-website.vercel.app/api/spring/original.svg" />
+I also develop web interfaces and full-stack applications using React, integrating frontend and backend to create functional and well-structured solutions.
 
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='React' 
-    alt='React' 
-    align='left' 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+I have experience working on projects from planning and implementation to deployment, applying software development best practices, clean code principles, organization, and maintainability.
 
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='React' 
-    alt='React' 
-    align='left' 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+I am continuously improving my software development skills and seeking new challenges to grow technically and contribute to building high-quality solutions.
 
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='JavaScript' 
-    alt='JavaScript' 
-    align='left' 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+- 🔗 Building and integrating **REST APIs**
+- ⚛️ Developing web interfaces with **React and TypeScript**
+- 🗄️ Working with relational databases and SQL
+- 🚀 Interested in software architecture, clean code, and scalable applications
 
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='PostgreSQL' 
-    alt='PostgreSQL' 
-    align='left' 
-    src="https://devicon-website.vercel.app/api/postgresql/original.svg" />    
+---
 
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='HTML' 
-    alt='HTML5' 
-    align='left' 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+## 🛠️ Languages, Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,nodejs,javascript,html,css,tailwindcss,postgres,git,github,docker,insomnia,idea,vscode" alt="Technologies" />
+</p>
 
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='CSS' 
-    alt='CSS3' 
-    align='left' 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+---
 
-<img 
-    style='padding-right: 10px' width='40px' 
-    title='Tailwind CSS' 
-    alt='Tailwind CSS' 
-    align='left' 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+## 📊 GitHub Statistics
 
-<br/>
-<br/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=heitorffvieira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Heitor's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffvieira&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
 
-### 📊 Estatísticas
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=heitorffvieira&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<p>
-    <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorffvieira&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p> 
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.instagram.com/heitorffv/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/heitorffvieira/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/heitorffvieira" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  Feel free to connect with me!
+</p>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
+</div>
