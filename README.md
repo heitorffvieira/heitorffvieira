@@ -36,7 +36,7 @@ I am continuously improving my software development skills and seeking new chall
 
 ## 🛠️ Languages, Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,nodejs,javascript,html,css,tailwindcss,postgres,git,github,docker,insomnia,idea,vscode" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,nodejs,javascript,html,css,tailwindcss,postgres,git,github,docker,postman,idea,vscode" alt="Technologies" />
 </p>
 
 ---
